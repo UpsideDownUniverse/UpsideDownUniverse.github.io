@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/UpsideDownUniverse/Universal-assets/blob/8ffe44ab946ff9b8b5be7ed47d658f0a3e1a1f66/icon_f3c2b62090f65826ca2fe49c25b6a8b39994468a9f4d8639d6f54ebf6a4bbb3b%20(1).jpg?raw=true
 
 # boolean type, the global switch for TOC in posts.
 toc: true
